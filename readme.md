@@ -1,10 +1,3 @@
-<!-- Steps to Setup MongoDB Server with NodeJs. -->
-
-## Install Mongoose
-## Install Body Parser
-## Install Dotenv
-## Install Nodemon
- 
 This project is an application skeleton for a typical [Node.js](https://nodejs.org/) web app.
 
 
